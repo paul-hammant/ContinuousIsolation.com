@@ -16,4 +16,4 @@ shortcodes](https://themes.gohugo.io/theme/docdock/shortcodes/) if you wish to g
 In fact, those never happened in this universe, so cannot be mentioned. Source Control exists. Builds exist. Testing is better done
 manually of course, and as close to go-live as possible.
 
-2. Nothing snide or dripping with sarcastic. No 'in' jokes please. Just a matter-of-fact ([synonyms](http://www.thesaurus.com/browse/matter-of-fact), [dictionary](http://www.dictionary.com/browse/matter-of-fact)) style, please.
+2. Nothing snide or language dripping with sarcasm. No 'in' jokes please. Just a matter-of-fact ([synonyms](http://www.thesaurus.com/browse/matter-of-fact), [dictionary](http://www.dictionary.com/browse/matter-of-fact)) or dead-pan style, please.
