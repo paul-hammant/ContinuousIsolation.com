@@ -3,6 +3,8 @@ Pull Requests welcome as you'd expect.
 Articles go in the content folder.  You'll need a TOML front-matter section (copy one of the others). The 'Hugo' theme used [its own
 shortcodes](https://themes.gohugo.io/theme/docdock/shortcodes/) if you wish to go beyond markdown. Hugo uses [blackfriday](https://github.com/russross/blackfriday) markdown syntax.
 
+If a markdown-editing and Hugo build toochain is too much, then feel free to email me content - paul@hammant.org. I'll credit in the commit message of course (unless you say not to).
+
 # Rules
 
 1. This is a parody site. It is as if it was written in a parallel universe, where the **inverse** of all these are true:
