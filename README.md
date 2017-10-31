@@ -39,4 +39,6 @@ If a markdown-editing and Hugo build toolchain is too much, then feel free to em
 In fact, those never happened in this universe, so cannot be mentioned. Source Control exists (a rich parody seam). Builds exist (but are only really important in the wind up to release every 18 months). 
 Testing is better done manually of course, and as close to go-live as possible (just once)
 
-2. Nothing snide or language dripping with sarcasm. No 'in' jokes please. Just a matter-of-fact ([synonyms](http://www.thesaurus.com/browse/matter-of-fact), [dictionary](http://www.dictionary.com/browse/matter-of-fact)) or dead-pan style, please.
+2. Nothing snide or language dripping with sarcasm, please. No 'in' jokes please. Just a matter-of-fact* or dead-pan style.
+
+&ast; Matter-of-fact: ([thesaurus.com](http://www.thesaurus.com/browse/matter-of-fact), [dictionary.com](http://www.dictionary.com/browse/matter-of-fact))
