@@ -1,17 +1,19 @@
 # Details of this parody site:
 
-After Benji Weber [tweeted](https://twitter.com/benjiweber/status/831193574502961154) about acronyms 
+After Benji Weber tweeted about acronyms 
 being misappropriated and mentioning Continuous Isolation, a mischief synapse in my head trigger, and 
 I made this site. Continuous Isolation is an 'antithetic acronym' as Benji's follower Anthony Green 
 pointed out (or coined). 
 
 ![google chromescreensnapz007](https://user-images.githubusercontent.com/82182/32221957-d69aca78-be0d-11e7-8faa-e8128bbc468e.png)
 
+[ref](https://twitter.com/benjiweber/status/831193574502961154)
+
 Anyway, so here it is, a GitHub backed parody site called [ContinuousIsolation.com](https://continuousisolation.com/).
 
 # Technologies Used:
 
-This is a [Hugo](https://gohugo.io/getting-started/installing/) site that auto-deploys on commit.
+This is a [Hugo](https://gohugo.io/getting-started/installing/) site that auto-deploys on commit/push.
 
 Articles are in the content/ folder.  You'll need a TOML front-matter section (copy one of the others). 
 Hugo uses [blackfriday](https://github.com/russross/blackfriday) markdown syntax.
