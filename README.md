@@ -7,7 +7,7 @@ pointed out (or coined).
 
 ![google chromescreensnapz007](https://user-images.githubusercontent.com/82182/32221957-d69aca78-be0d-11e7-8faa-e8128bbc468e.png)
 
-Anyway, so here it is, a GitHub backed parody site called [continuousisolation.com](https://continuousisolation.com/).
+Anyway, so here it is, a GitHub backed parody site called [ContinuousIsolation.com](https://continuousisolation.com/).
 
 # Technologies Used:
 
