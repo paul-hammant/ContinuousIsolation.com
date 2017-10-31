@@ -1,7 +1,7 @@
 # Details of this parody site:
 
 After Benji Weber tweeted about acronyms 
-being misappropriated and mentioning Continuous Isolation, a mischief synapse in my head trigger, and 
+being misappropriated and mentioning Continuous Isolation, a mischief-loving synapse in my head trigger, and 
 I made this site. Continuous Isolation is an 'antithetic acronym' as Benji's follower Anthony Green 
 pointed out (or coined). 
 
@@ -15,7 +15,7 @@ Anyway, so here it is, a GitHub backed parody site called [ContinuousIsolation.c
 
 This is a [Hugo](https://gohugo.io/getting-started/installing/) site that auto-deploys on commit/push.
 
-Articles are in the content/ folder.  You'll need a TOML front-matter section (copy one of the others). 
+Articles are in the content/ folder.  You will need a TOML front-matter section (copy one of the others). 
 Hugo uses [blackfriday](https://github.com/russross/blackfriday) markdown syntax.
 
 The Hugo theme used [its own
@@ -24,7 +24,7 @@ though I'm pretty sure you can past in integral HTML snippets if you want to.
 
 # How to contribute:
 
-Pull Requests welcome as you'd expect.  But if you're super short on time, just raise a GitHub issue and 
+Pull Requests welcome as you would expect.  But if you're super short on time, just raise a GitHub issue and 
 type in your contrib/idea free-form. It'll make it to a source document soon after via good old copy/paste 
 (one of the Continuous Isolation best practices no doubt).
 
@@ -43,6 +43,6 @@ If a markdown-editing and Hugo build toolchain is too much, then feel free to em
 In fact, those never happened in this universe, so cannot be mentioned. Source Control exists (a rich parody seam). Builds exist (but are only really important in the wind up to release every 18 months). 
 Testing is better done manually of course, and as close to go-live as possible (just once)
 
-2. Nothing snide or language dripping with sarcasm, please. No 'in' jokes please. Just a matter-of-fact* or dead-pan style.
+2. Nothing snide or language dripping with sarcasm, please. No 'in jokes' please. Just use a matter-of-fact* or dead-pan style.
 
 &ast; Matter-of-fact: ([thesaurus.com](http://www.thesaurus.com/browse/matter-of-fact), [dictionary.com](http://www.dictionary.com/browse/matter-of-fact))
