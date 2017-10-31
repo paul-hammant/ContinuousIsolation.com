@@ -5,6 +5,8 @@ being misappropriated and mentioning Continuous Isolation, a mischief synapse in
 I made this site. Continuous Isolation is an 'antithetic acronym' as Benji's follower Anthony Green 
 pointed out (or coined). 
 
+![google chromescreensnapz007](https://user-images.githubusercontent.com/82182/32221957-d69aca78-be0d-11e7-8faa-e8128bbc468e.png)
+
 # Technologies
 
 This is a [Hugo](https://gohugo.io/getting-started/installing/) site that auto-deploys on commit.
