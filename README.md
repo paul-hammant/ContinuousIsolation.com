@@ -7,7 +7,7 @@ pointed out (or coined).
 
 # Technologies
 
-This is a [Hugo](https://gohugo.io/getting-started/installing/) site that autodeploys on commit.
+This is a [Hugo](https://gohugo.io/getting-started/installing/) site that auto-deploys on commit.
 
 Articles are in the content/ folder.  You'll need a TOML front-matter section (copy one of the others). 
 Hugo uses [blackfriday](https://github.com/russross/blackfriday) markdown syntax.
@@ -18,9 +18,11 @@ though I'm pretty sure you can past in integral HTML snippets if you want to.
 
 # Contributions
 
-Pull Requests welcome as you'd expect.  But if you're super short on time, just raise a GitHub issue and type in your contrib/idea freeform. It'll make it to a source document soon after via good old copy/paste (one of the Continuous Isolation best practices no doubt).
+Pull Requests welcome as you'd expect.  But if you're super short on time, just raise a GitHub issue and 
+type in your contrib/idea free-form. It'll make it to a source document soon after via good old copy/paste 
+(one of the Continuous Isolation best practices no doubt).
 
-If a markdown-editing and Hugo build toochain is too much, then feel free to email me content - paul@hammant.org. I'll credit in the commit message of course (unless you say not to).
+If a markdown-editing and Hugo build toolchain is too much, then feel free to email me content - paul@hammant.org. I'll credit in the commit message of course (unless you say not to).
 
 # Rules
 
