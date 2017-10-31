@@ -9,18 +9,7 @@ pointed out (or coined).
 
 [Link to Tweet as can't embed in a README](https://twitter.com/benjiweber/status/831193574502961154)
 
-Anyway, so here it is, a GitHub backed parody site called [ContinuousIsolation.com](https://continuousisolation.com/).
-
-# Technologies Used:
-
-This is a [Hugo](https://gohugo.io/getting-started/installing/) site that auto-deploys on commit/push.
-
-Articles are in the content/ folder.  You will need a TOML front-matter section (copy one of the others). 
-Hugo uses [blackfriday](https://github.com/russross/blackfriday) markdown syntax.
-
-The Hugo theme used [its own
-shortcodes](https://themes.gohugo.io/theme/docdock/shortcodes/) if you wish to go beyond simple markdown, 
-though I'm pretty sure you can past in integral HTML snippets if you want to. 
+Anyway, so here it is, a GitHub-backed parody site called [ContinuousIsolation.com](https://continuousisolation.com/).
 
 # How to contribute:
 
@@ -46,3 +35,15 @@ Testing is better done manually of course, and as close to go-live as possible (
 2. Nothing snide or language dripping with sarcasm, please. No 'in jokes' please. Just use a matter-of-fact* or dead-pan style.
 
 &ast; Matter-of-fact: ([thesaurus.com](http://www.thesaurus.com/browse/matter-of-fact), [dictionary.com](http://www.dictionary.com/browse/matter-of-fact))
+
+# Technologies Used:
+
+This is a [Hugo](https://gohugo.io/getting-started/installing/) site that auto-deploys on commit/push.
+
+Articles are in the content/ folder.  You will need a TOML front-matter section (copy one of the others). 
+Hugo uses [blackfriday](https://github.com/russross/blackfriday) markdown syntax.
+
+The Hugo theme used [its own
+shortcodes](https://themes.gohugo.io/theme/docdock/shortcodes/) if you wish to go beyond simple markdown, 
+though I'm pretty sure you can past in integral HTML snippets if you want to. 
+
