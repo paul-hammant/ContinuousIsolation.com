@@ -5,9 +5,8 @@ being misappropriated and mentioning Continuous Isolation, a mischief synapse in
 I made this site. Continuous Isolation is an 'antithetic acronym' as Benji's follower Anthony Green 
 pointed out (or coined). 
 
-![google chromescreensnapz007](https://user-images.githubusercontent.com/82182/32221957-d69aca78-be0d-11e7-8faa-e8128bbc468e.png)
-
-[ref](https://twitter.com/benjiweber/status/831193574502961154)
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Is there a name for when abbreviations become commonly used to mean the oppposite of their expansion?<br>CI =&gt; Continuous Isolation<br>REST =&gt; RPC</p>&mdash; Benji Weber (@benjiweber) <a href="https://twitter.com/benjiweber/status/831193574502961154?ref_src=twsrc%5Etfw">February 13, 2017</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Anyway, so here it is, a GitHub backed parody site called [ContinuousIsolation.com](https://continuousisolation.com/).
 
