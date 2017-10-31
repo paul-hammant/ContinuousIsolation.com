@@ -1,6 +1,6 @@
 +++
 title = "Continuous Isolation"
-description = "Reference site for ths industry best practice"
+description = "Reference site for this industry best practice"
 +++
 
 Welcome, friend!
