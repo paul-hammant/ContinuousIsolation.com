@@ -1,4 +1,4 @@
-# Details of Parody site:
+# Details of this parody site:
 
 After Benji Weber [tweeted](https://twitter.com/benjiweber/status/831193574502961154) about acronyms 
 being misappropriated and mentioning Continuous Isolation, a mischief synapse in my head trigger, and 
@@ -6,6 +6,8 @@ I made this site. Continuous Isolation is an 'antithetic acronym' as Benji's fol
 pointed out (or coined). 
 
 ![google chromescreensnapz007](https://user-images.githubusercontent.com/82182/32221957-d69aca78-be0d-11e7-8faa-e8128bbc468e.png)
+
+Anyway, so here it is, a GitHub backed parody site called [continuousisolation.com](https://continuousisolation.com/).
 
 # Technologies Used:
 
@@ -18,7 +20,7 @@ The Hugo theme used [its own
 shortcodes](https://themes.gohugo.io/theme/docdock/shortcodes/) if you wish to go beyond simple markdown, 
 though I'm pretty sure you can past in integral HTML snippets if you want to. 
 
-# How to Contribute:
+# How to contribute:
 
 Pull Requests welcome as you'd expect.  But if you're super short on time, just raise a GitHub issue and 
 type in your contrib/idea free-form. It'll make it to a source document soon after via good old copy/paste 
@@ -26,7 +28,7 @@ type in your contrib/idea free-form. It'll make it to a source document soon aft
 
 If a markdown-editing and Hugo build toolchain is too much, then feel free to email me content - paul@hammant.org. I'll credit in the commit message of course (unless you say not to).
 
-# Rules for Participation:
+# Rules for participation:
 
 1. This is a parody site of course. It is as if it was written in a parallel universe, where the **inverse** of all these are true:
 * Agile generally, and eXtreme Programming specifically
