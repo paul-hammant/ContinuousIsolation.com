@@ -11,7 +11,7 @@ pointed out (or coined).
 
 Anyway, so here it is, a GitHub-backed parody site called [ContinuousIsolation.com](https://continuousisolation.com/).
 
-<div style="background-color:yellow"><b>And this is a lesser part in of a community effort to get more traction for eXtreme Programming. Albeit one rooted in mischief</b></div>
+![image](https://user-images.githubusercontent.com/82182/32255014-3bc5fef0-be7b-11e7-8f86-7c8d53842c4d.png)
 
 # How to contribute:
 
