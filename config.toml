@@ -5,7 +5,7 @@ title = "Continuous Isolation"
 theme = "docdock"
 
 [params]
-editURL = "https://github.com/paul-hammant/ci/edit/master/content/"
+editURL = "https://github.com/paul-hammant/ContinuousIsolation.com/edit/master/content/"
 noHomeIcon = false # default is false
 noSearch = false # default is false
 showVisitedLinks = true # default is false
@@ -18,5 +18,5 @@ home = [ "HTML", "RSS", "JSON"]
 pre = "<h3>More</h3>"
 name = "<i class='fa fa-github'></i> Github repo"
 identifier = "ds"
-url = "https://github.com/paul-hammant/ci"
+url = "https://github.com/paul-hammant/ContinuousIsolation.com"
 weight = 10
