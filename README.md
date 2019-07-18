@@ -46,6 +46,6 @@ Articles are in the content/ folder.  You will need a TOML front-matter section 
 Hugo uses [blackfriday](https://github.com/russross/blackfriday) markdown syntax.
 
 The Hugo theme used [its own
-shortcodes](https://themes.gohugo.io/theme/docdock/shortcodes/) if you wish to go beyond simple markdown, 
+shortcodes](https://docdock.netlify.com/shortcodes/) if you wish to go beyond simple markdown, 
 though I'm pretty sure you can past in integral HTML snippets if you want to. 
 
