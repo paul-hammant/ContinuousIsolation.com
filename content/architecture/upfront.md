@@ -10,3 +10,5 @@ It is the analyst's job to meet with all stakeholders and provide detail for all
 This requirements list and documentation is duly signed by project stakeholders, and taken to the projects Architect. In the following three months (suggested) the Architect defines the architecture that will be developed to deliver everything listed. The artifacts for this exercise are diagrams, documents describing the structure, and a list of hardware and software to purchase for development, and closer to go-live, production. 
 
 Many projects print a limited number of bound books for the architectural designs, and posters to pin up for some of the diagrams.
+
+Hello Mike!
